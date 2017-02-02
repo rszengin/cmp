@@ -250,3 +250,11 @@ paket-files/
 # JetBrains Rider
 .idea/
 *.sln.iml
+/cmp_test/cmp_test.vcxproj.filters
+/cmp_test/cmp_test.vcxproj
+/cmp_test/cmp_test.sln
+/cmp_test/cmp_test.sln
+*.vcxproj
+*.filters
+*.sln
+/examples/a.out
